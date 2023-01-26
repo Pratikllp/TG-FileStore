@@ -2,9 +2,6 @@
 
 ⍟ 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗣𝗮𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗙𝗶𝗹𝗲𝘀 𝗦𝘁𝗼𝗿𝗲 𝗕𝗼𝘁.
 
-* **Language:** [Python3](https://www.python.org)
-* **Library:** [Pyrogram](https://docs.pyrogram.org)
-
 ### Features:
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
 - In Channel Add Bot as Admin with Edit Rights. When you will send any file or media in Channel it will Edit the Broadcast Message with Saved Link Button.
