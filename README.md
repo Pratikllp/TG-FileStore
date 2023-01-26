@@ -1,10 +1,4 @@
-![TGFileStore](https://telegra.ph/file/d651c7b7943a9702f846d.png)
 
-
-### Demo Bot:
-<a href="https://t.me/permanent_file_store_658_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
-
-![Configs](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
 - `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
@@ -31,5 +25,3 @@ broadcast - Broadcast replied message to DB Users [Owner Only]
 ban_user - [user_id] [ban_duration] [ban_reason] Ban Any User [Owner Only]
 unban_user - [user_id] Unban Any User [Owner Only]
 banned_users - Get All Banned Users [Owner Only]
-```
-
